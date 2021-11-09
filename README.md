@@ -1,13 +1,16 @@
-# Velozity-Global-Solutions-internship-task
-This is a Dashboard Screen which is similar to Swiggy delivery partner app ui.
+# flutter_application_1
 
-Dashboard:
+A new Flutter project.
 
+## Getting Started
 
-![dashboard](https://user-images.githubusercontent.com/87595760/140881755-9ed52a3b-9a1d-4cc5-91a2-a6543116b12d.PNG)
+This project is a starting point for a Flutter application.
 
-Dashboard after scrolling:
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-![dashboard after scrolling](https://user-images.githubusercontent.com/87595760/140882006-58e176f1-974d-4703-a07e-8d3d55419a70.PNG)
-
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
